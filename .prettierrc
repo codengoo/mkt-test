@@ -1,0 +1,8 @@
+{
+  "semi": false,
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "printWidth": 100,
+  "array-element-newline": ["warn", { "minItems": 3 }],
+  "plugins": ["prettier-plugin-organize-imports"]
+}
